@@ -49,11 +49,5 @@ This project analyzes customer demographics and purchasing behavior using the [C
 - **Segment 2**: Premium wine subscriptions, exclusive events, and VIP memberships.
 - **Segment 3**: Personalized re-engagement campaigns, luxury incentives, and "welcome back" discounts.
 
-## Future Improvements
-- Experiment with alternative clustering algorithms (e.g., Gaussian Mixture Models, DBSCAN) to uncover more nuanced segments.
-- Use the Elbow Method to determine the optimal number of clusters for K-Means.
-- Add more feature engineering, such as total spending or purchase frequency metrics, to enhance segmentation.
-- Incorporate predictive modeling to forecast customer responses to proposed marketing campaigns.
-
 ## License
 This project is licensed under the [MIT License](LICENSE).
